@@ -1,0 +1,23 @@
+{
+  "name": "heroku-node-test",
+  "version": "1.0.0",
+  "description": "noni",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jomemaulengit/heroku-node-test.git"
+  },
+  "author": "maulen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jomemaulengit/heroku-node-test/issues"
+  },
+  "homepage": "https://github.com/jomemaulengit/heroku-node-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
